@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-24T11:04:11.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="RPwcjjwfBAHdOouOKu8r" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-24T11:04:29.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="GRG1360COGdVI28dapNq" version="24.1.0" type="github">
   <diagram name="第 1 页" id="t9CCaxTAOTX4yrAlOPAR">
-    <mxGraphModel dx="5365" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7673" dy="2038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -471,12 +471,6 @@
         </mxCell>
         <mxCell id="kgD1wpb85HeonPcsR9Vx-57" value="刷卡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2980" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kgD1wpb85HeonPcsR9Vx-59" value="" style="shape=cross;whiteSpace=wrap;html=1;fillStyle=dots;fillColor=#d5e8d4;strokeColor=#82b366;rotation=45;strokeWidth=2;perimeterSpacing=1;" vertex="1" parent="1">
-          <mxGeometry x="-1975" y="43.79" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="kgD1wpb85HeonPcsR9Vx-62" value="" style="shape=cross;whiteSpace=wrap;html=1;fillStyle=dots;fillColor=#d5e8d4;strokeColor=#82b366;rotation=45;strokeWidth=2;perimeterSpacing=1;" vertex="1" parent="1">
-          <mxGeometry x="-1950" y="640" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kgD1wpb85HeonPcsR9Vx-63" value="" style="group;fillColor=default;fillStyle=cross-hatch;container=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-840" y="950" width="70" height="120" as="geometry" />
