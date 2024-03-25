@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T01:55:09.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="ehIlAA4Ig6IuIKd7VphO" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T02:12:59.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="JXChtZ9kgZbvBOIpmr1N" version="24.1.0" type="github">
   <diagram name="第 1 页" id="t9CCaxTAOTX4yrAlOPAR">
-    <mxGraphModel dx="6493" dy="2527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5624" dy="2027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -253,8 +253,8 @@
         <mxCell id="PA3A19psSOnWKQPOpQNL-166" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1730" y="20" width="710" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="PA3A19psSOnWKQPOpQNL-167" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;进入房间等待&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontStyle=1;fontColor=#67AB9F;" parent="1" vertex="1">
-          <mxGeometry x="-1685" y="30" width="115" height="50" as="geometry" />
+        <mxCell id="PA3A19psSOnWKQPOpQNL-167" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;进入房间等待&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;进入房间后等待其余玩家加入，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;加入的玩家会占据一个位置。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontStyle=1;fontColor=#67AB9F;" parent="1" vertex="1">
+          <mxGeometry x="-1730" y="-100" width="710" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PA3A19psSOnWKQPOpQNL-168" value="准备好了&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fillColor=none;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-1407" y="450" width="84" height="30" as="geometry" />
@@ -679,7 +679,7 @@
         <mxCell id="kgD1wpb85HeonPcsR9Vx-153" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=dashed;" parent="1" vertex="1">
           <mxGeometry x="337" y="753.43" width="43" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kgD1wpb85HeonPcsR9Vx-154" value="$ 2000" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="kgD1wpb85HeonPcsR9Vx-154" value="$ 2000&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;员工A 出牌了&lt;/div&gt;&lt;div&gt;员工B 出牌了&lt;/div&gt;&lt;div&gt;员工C 出牌了&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="94" y="750" width="230" height="170" as="geometry" />
         </mxCell>
         <mxCell id="kgD1wpb85HeonPcsR9Vx-155" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -925,7 +925,7 @@
         <mxCell id="FAPzS4ueLY6J7nQ3hfWF-117" value="HP 5" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Comic Sans MS;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="-46.5" y="692.42" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FAPzS4ueLY6J7nQ3hfWF-118" value="$ 15" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Comic Sans MS;fillColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="FAPzS4ueLY6J7nQ3hfWF-118" value="$ 2000" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=Comic Sans MS;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="26.5" y="692.42" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FAPzS4ueLY6J7nQ3hfWF-119" value="" style="group" vertex="1" connectable="0" parent="1">
