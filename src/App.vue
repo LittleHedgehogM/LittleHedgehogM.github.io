@@ -4,9 +4,10 @@ import Page1_PortfolioTitle from './views/Page1_PortfolioTitle.vue'
 </script>
 
 <template>
-  <header>
+  <header></header>
+  <body>
     <Page1_PortfolioTitle />
-  </header>
+  </body>
 </template>
 
 <style scoped>
