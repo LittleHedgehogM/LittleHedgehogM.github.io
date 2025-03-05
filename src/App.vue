@@ -1,20 +1,15 @@
 <script setup lang="ts">
 import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'
 import Page1_PortfolioTitle from './views/Page1_PortfolioTitle.vue'
 </script>
 
 <template>
   <header>
     <router-view></router-view>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
-
     <div class="wrapper">
-      <!-- <HelloWorld msg="You did it!" /> -->
-      1111
       <nav>
         <Page1_PortfolioTitle />
-        <RouterLink to="/">Page1_PortfolioTitle</RouterLink>
+        <!-- <RouterLink to="/">Page1_PortfolioTitle</RouterLink> -->
       </nav>
     </div>
   </header>
