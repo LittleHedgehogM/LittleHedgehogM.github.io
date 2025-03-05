@@ -1,4 +1,4 @@
-import { createRouter, createWebHashHistory, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import Page1_Portfolio from '../views/Page1_PortfolioTitle.vue'
 
 const router = createRouter({
@@ -8,7 +8,7 @@ const router = createRouter({
       path: '/',
       name: 'Page1_Portfolio',
       component: Page1_Portfolio,
-    }
+    },
   ],
 })
 

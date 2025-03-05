@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { RouterLink, RouterView } from 'vue-router'
+// import { RouterLink, RouterView } from 'vue-router'
 import Page1_PortfolioTitle from './views/Page1_PortfolioTitle.vue'
 </script>
 
