@@ -6,12 +6,7 @@ import Page1_PortfolioTitle from './views/Page1_PortfolioTitle.vue'
 <template>
   <header>
     <router-view></router-view>
-    <div class="wrapper">
-      <nav>
-        <Page1_PortfolioTitle />
-        <!-- <RouterLink to="/">Page1_PortfolioTitle</RouterLink> -->
-      </nav>
-    </div>
+    <Page1_PortfolioTitle />
   </header>
 </template>
 
