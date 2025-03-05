@@ -5,7 +5,6 @@ import Page1_PortfolioTitle from './views/Page1_PortfolioTitle.vue'
 
 <template>
   <header>
-    <router-view></router-view>
     <Page1_PortfolioTitle />
   </header>
 </template>
