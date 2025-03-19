@@ -1,47 +1,10 @@
-<script setup lang="ts">
-import Page1_PortfolioTitle from './views/Page1_PortfolioTitle.vue'
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <header></header>
   <body>
-    <Page1_PortfolioTitle />
+    111
   </body>
 </template>
 
-<style scoped>
-header {
-  line-height: 1.5;
-  max-height: 100vh;
-}
-
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
-
-nav {
-  width: 100%;
-  font-size: 12px;
-  text-align: center;
-  margin-top: 2rem;
-}
-
-nav a.router-link-exact-active {
-  color: var(--color-text);
-}
-
-nav a.router-link-exact-active:hover {
-  background-color: transparent;
-}
-
-nav a {
-  display: inline-block;
-  padding: 0 1rem;
-  border-left: 1px solid var(--color-border);
-}
-
-nav a:first-of-type {
-  border: 0;
-}
-</style>
+<style scoped></style>
